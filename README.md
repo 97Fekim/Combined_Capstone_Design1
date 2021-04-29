@@ -1,6 +1,5 @@
 # Combined Capstone Design1
 # 2020.9. ~ 2020.12.
-# subject : "반도체 X-Ray vision s/w 개발"
 
 전체 소스코드 중 대부분은 UI 생성을 위해 자동 생성된 코드이므로
 
