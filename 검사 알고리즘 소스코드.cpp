@@ -378,6 +378,7 @@ Mat getIppCloneMat(IppByteImage& img)
 	BYTE** p = img.GetPixels2D();
 	Mat src(rows, cols, CV_8UC1);
 
+	/* MFC 이미지 클래스 > Mat 클래스 변환 */
 	for (int row = 0; row < rows; ++row)
 		for (int col = 0; col < cols; ++col)
 		{
@@ -389,6 +390,8 @@ IppRgbImage getMatCloneIppColor(Mat& src_color)
 {
 	IppRgbImage color_image;
 	color_image.CreateImage(src_color.cols, src_color.rows);
+
+	/* Mat 클래스를 출력이 가능한 MFC 이미지로 변환 */
 	RGBBYTE** P_RGB = color_image.GetPixels2D();
 	{
 		int c = 0;
