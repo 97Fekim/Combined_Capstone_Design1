@@ -1,15 +1,15 @@
-# 융합캡스톤디자인1
-# 제작 기간
+# Combined Capstone Design1 (융합캡스톤디자인1)
+# Project term (제작 기간)
 2020.9. ~ 2020.12.
-# 소개
+# Overview (개요)
 반도체 PCB Solder Void 불량 검사와 이미지 변환 기능이 있는 MFC 프로그램.
-# 구현화면
+# Performance Display (구현 화면)
 ![내검사](https://user-images.githubusercontent.com/81150979/122421227-32a44500-cfc7-11eb-84c0-d5c9d0737992.PNG)
 ![메뉴 영상변환](https://user-images.githubusercontent.com/81150979/122421240-346e0880-cfc7-11eb-81f0-c73772956140.PNG)
-# 주요기능
-1) PCB Solder Void 검사 기능
-- 일반 검사
-- 빠른 검사 (이미지 불러오기시 즉시 검사)
+# Main Function (주요 기능)
+1) PCB Solder Void Inspection
+- General Inspection (일반 검사)
+- Fast Inspection (빠른검사, 이미지 불러오기시 즉시 검사)
 2) 이미지 확대/축소 기능(1/2/3/4배, 1/2배, 1/5배)
 4) ROI 설정 기능
 6) 히스토그램 이미지 생성 기능
