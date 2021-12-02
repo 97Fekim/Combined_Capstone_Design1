@@ -8,17 +8,17 @@
 >> _Window_
 >* __주요 사용 패키지__
 >>_C_&nbsp;&nbsp;&nbsp;_C++_&nbsp;&nbsp;&nbsp;_OpenCV_&nbsp;&nbsp;&nbsp;&nbsp;_MFC_
+## Performance Display (구현 화면)
+![내검사](https://user-images.githubusercontent.com/81150979/122421227-32a44500-cfc7-11eb-84c0-d5c9d0737992.PNG)
+---------------------
+![메뉴 영상변환](https://user-images.githubusercontent.com/81150979/122421240-346e0880-cfc7-11eb-81f0-c73772956140.PNG)
+----------------------
 ## Prerequisite
 >
 ## Files
 >
 ## Usage
 >
-## Performance Display (구현 화면)
-![내검사](https://user-images.githubusercontent.com/81150979/122421227-32a44500-cfc7-11eb-84c0-d5c9d0737992.PNG)
----------------------
-![메뉴 영상변환](https://user-images.githubusercontent.com/81150979/122421240-346e0880-cfc7-11eb-81f0-c73772956140.PNG)
-----------------------
 ## Main Function (주요 기능)
 >1) PCB Solder Void Inspection
 >>- General Inspection (일반 검사)
