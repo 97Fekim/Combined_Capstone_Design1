@@ -41,3 +41,4 @@ MFC program that have PCB Solder Void defect inspection function and image proce
 - [openCV를 이용한 디지털 영상처리], 인피니티북스, 500
 - [Visual C++ 영상처리 프로그래밍], 길벗, 816
 - [쉽게 배우는 MFC 윈도우 프로그래밍], 한빛아카데미, 772
+- Technical document written by (주)쎄크
