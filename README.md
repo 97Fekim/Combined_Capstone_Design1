@@ -1,13 +1,13 @@
 # Combined Capstone Design1 (융합캡스톤디자인1)
-# Project term (제작 기간)
+## Project term (제작 기간)
 >2020.9. ~ 2020.12.
-# Overview (개요)
+## Overview (개요)
 >MFC program that have PCB Solder Void defect inspection function and image processing function.
 >(반도체 PCB Solder Void 불량 검사와 이미지 변환 기능이 있는 MFC 프로그램.)
-# Performance Display (구현 화면)
+## Performance Display (구현 화면)
 ![내검사](https://user-images.githubusercontent.com/81150979/122421227-32a44500-cfc7-11eb-84c0-d5c9d0737992.PNG)
 ![메뉴 영상변환](https://user-images.githubusercontent.com/81150979/122421240-346e0880-cfc7-11eb-81f0-c73772956140.PNG)
-# Main Function (주요 기능)
+## Main Function (주요 기능)
 1) PCB Solder Void Inspection
 - General Inspection (일반 검사)
 - Fast Inspection (빠른검사, 이미지 불러오기시 즉시 검사)
@@ -37,7 +37,7 @@
 - Connected component labeling (레이블링)
 - Sobel edge extraction (소벨 엣지 추출)
 - Hough circle (허프 서클)
-# reference (참고문헌)
+## reference (참고문헌)
 - [openCV를 이용한 디지털 영상처리], 인피니티북스, 500
 - [Visual C++ 영상처리 프로그래밍], 길벗, 816
 - [쉽게 배우는 MFC 윈도우 프로그래밍], 한빛아카데미, 772
