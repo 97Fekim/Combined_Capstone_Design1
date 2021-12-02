@@ -11,6 +11,7 @@
 1) PCB Solder Void Inspection
 - General Inspection (일반 검사)
 - Fast Inspection (빠른검사, 이미지 불러오기시 즉시 검사)
+----------------
 2) Image scaling(1/2/3/4, 1/2, 1/5)
 4) ROI Setting.
 6) Create Histogram image. (히스토그램 이미지 생성)
