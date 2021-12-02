@@ -1,10 +1,12 @@
 # Machine vision for semiconductor defect inspection
 ## 
-## Overview (개요)
+## Description (개요)
 >MFC program that have PCB Solder Void defect inspection function and image processing function.
 >(반도체 PCB Solder Void 불량 검사와 이미지 변환 기능이 있는 MFC 프로그램.)
-## Project term (제작 기간)
->2020.9. ~ 2020.12.
+## Enviromnent (개발환경)
+## Prerequisite
+## Files
+## Usage
 ## Performance Display (구현 화면)
 ![내검사](https://user-images.githubusercontent.com/81150979/122421227-32a44500-cfc7-11eb-84c0-d5c9d0737992.PNG)
 ![메뉴 영상변환](https://user-images.githubusercontent.com/81150979/122421240-346e0880-cfc7-11eb-81f0-c73772956140.PNG)
@@ -44,3 +46,8 @@
 - [Visual C++ 영상처리 프로그래밍], 길벗, 816
 - [쉽게 배우는 MFC 윈도우 프로그래밍], 한빛아카데미, 772
 - Technical document written by (주)쎄크
+## Project term (제작 기간)
+>2020.9. ~ 2020.12.
+
+# Description
+# Environment
