@@ -4,7 +4,10 @@
 >MFC program that have PCB Solder Void defect inspection function and image processing function.
 >(반도체 PCB Solder Void 불량 검사와 이미지 변환 기능이 있는 MFC 프로그램.)
 ## Enviromnent (개발환경)
->
+>* __구동환경__
+>> _Window_
+>* __주요 사용 패키지__
+>>_C_&nbsp;&nbsp;&nbsp;_C++_&nbsp;&nbsp;&nbsp;_OpenCV_&nbsp;&nbsp;&nbsp;&nbsp;_MFC_
 ## Prerequisite
 >
 ## Files
