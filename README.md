@@ -7,6 +7,7 @@
 ## Performance Display (구현 화면)
 ![내검사](https://user-images.githubusercontent.com/81150979/122421227-32a44500-cfc7-11eb-84c0-d5c9d0737992.PNG)
 ![메뉴 영상변환](https://user-images.githubusercontent.com/81150979/122421240-346e0880-cfc7-11eb-81f0-c73772956140.PNG)
+----------------------
 ## Main Function (주요 기능)
 >1) PCB Solder Void Inspection
 >>- General Inspection (일반 검사)
