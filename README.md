@@ -1,6 +1,6 @@
 # Combined Capstone Design1 (융합캡스톤디자인1)
 # Project term (제작 기간)
-2020.9. ~ 2020.12.
+>2020.9. ~ 2020.12.
 # Overview (개요)
 >MFC program that have PCB Solder Void defect inspection function and image processing function.
 >(반도체 PCB Solder Void 불량 검사와 이미지 변환 기능이 있는 MFC 프로그램.)
